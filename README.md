@@ -46,3 +46,4 @@ queue has been emptied. The **_run_session()** is shown below.
                     else:
                         raise NotImplemented("Unsupported event.type '%s'" % event.type)
 ```
+## UML Class Diagram
