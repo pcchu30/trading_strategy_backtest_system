@@ -47,3 +47,4 @@ queue has been emptied. The **_run_session()** is shown below.
                         raise NotImplemented("Unsupported event.type '%s'" % event.type)
 ```
 ## UML Class Diagram
+![alt text](https://github.com/pcchu30/static/blob/master/images/UML/python_backtesting.svg?raw=true)
