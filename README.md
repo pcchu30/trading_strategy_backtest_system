@@ -48,3 +48,7 @@ queue has been emptied. The **_run_session()** is shown below.
 ```
 ## UML Class Diagram
 ![alt text](https://github.com/pcchu30/static/blob/master/images/UML/python_backtesting.svg?raw=true)
+## TearsheetStatistics
+**TearsheetStatistics** displays a performance report, which includes an equity curve, drawdown curve, monthly returns heatmap, yearly returns summary, strategy-level
+statistics and trade-level statistics. The performance report is shown below.
+![alt text](https://github.com/pcchu30/static/blob/master/images/backtest/tearsheet_2019-10-02_123820.png?raw=true)
