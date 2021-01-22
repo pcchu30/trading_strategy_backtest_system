@@ -1,6 +1,6 @@
 # trading_strategy_backtest_system
 **trading_strategy_backtest_system** is a Python-based event-driven backtesting simulation engine, which has been
-used to backtest my own machine learning trading strategies.
+used to backtest trading strategies.
 ## TradingSession
 **TradingSession** is the key class, and its member method, **_run_session()**, carries out
 an infinite while loop that polls the events queue. The loop continue until the event
